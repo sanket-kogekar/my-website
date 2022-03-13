@@ -6,7 +6,7 @@ export const meta = {
 
 export const hero = {
   title: "Hello! ⚡ I'm Sanket Kogekar",
-  desc: "I'm a Fullstack / Blockchain Developer from India. Pretty much excited about everything around Web3 | DeFi | Blockchain Tech. Going super long on Ethereum! :D",
+  desc: "I'm a Fullstack / Blockchain Developer from India. Pretty much excited about everything in Web3 | DeFi | Blockchain Tech. Going super long on Ethereum! :D - and what about you?",
   desc2: '',
   // desc2: "Excited about what's next in Web3 | DeFi | Blockchain Tech",
   desc3: ''
